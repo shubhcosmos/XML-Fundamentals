@@ -11,7 +11,7 @@ namespace Caching.Samples.Sample02
     #region Constructor
     public DetectChangesViewModel()
     {
-      CreateXmlFileName(CUSTOMER_XML_FILE);
+      CreateXmlFileName(CUSTOMER_XML_FILE) ;
     }
     #endregion
 
